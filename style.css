@@ -1,0 +1,33 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.bg {
+  background-image: url('1.gif');
+  height:650px;
+  position:relative;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.btn-1 {
+  margin: 0;
+  position: absolute;
+  top: 60%;
+  left :35%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.btn-2 {
+  margin: 0;
+  position: absolute;
+  top: 60%;
+  left :50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.form-box{
+	background-color:#FFFF99;
+}
